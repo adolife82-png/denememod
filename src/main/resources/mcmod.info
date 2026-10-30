@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "cubukmod",
+    "name": "Cubuk Mod",
+    "description": "Ateş Çubuğu için özel HUD ve cooldown gösterimi.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "authorList": ["CubukDev"]
+  }
+]
